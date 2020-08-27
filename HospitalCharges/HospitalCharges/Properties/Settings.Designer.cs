@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TotalHospitalCharges.Properties
+namespace HospitalCharges.Properties
 {
 
 

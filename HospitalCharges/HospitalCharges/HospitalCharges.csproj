@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{300C45C1-CCBF-488C-A04E-B68C298D57AD}</ProjectGuid>
+    <ProjectGuid>{6CE21B4B-C6E7-4E8A-9C30-9FF4161FBB93}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>TotalHospitalCharges</RootNamespace>
-    <AssemblyName>TotalHospitalCharges</AssemblyName>
+    <RootNamespace>HospitalCharges</RootNamespace>
+    <AssemblyName>HospitalCharges</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
